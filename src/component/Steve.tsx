@@ -6,7 +6,7 @@ export default function Steve(){
 
     const { username, password } = useParams()
     const formData = Fellas.filter((value) => (username == value.username.toLowerCase() && password == String(value.password)))
-    const [ d ] = (Heart.filter((value) => (value.name == username)))
+    const [ d ] = (Heart.filter((value) => (value.name.toLowerCase() == username)))
 
     console.log(formData, d)
 

@@ -1,10 +1,15 @@
 [
     {
-        "name" : "steve",
+        "name" : "Steve",
         "data" : "Well, you are you. So, I got nothing to say much. Just be cool alr. I'll be so cool like Joke SoCool. นี่พิมพ์ภาษาไทยได้ป่ะ เอาเป็นว่ามันพิมพ์ได้ แล้วแม่งเจ๋งสุดยอดสัสเลย นี่มึงรู้ป่ะ กูแม่งจะระเบิดระเบ้อ มีหมูกินไก่ กินไวกินใจ นารายณ์ยิงศร กูจะระเบิดอ่ะ มึงเก็ทกูป่ะะะ"
     },
     {
-        "name" : "tonnam",
+        "name" : "Tonnam",
         "data" : "Sup nigga"
+    },  
+    {
+        "name" : "Test",
+        "data" : "It is a test. Will be remove soon."
+
     }
 ]
